@@ -1,6 +1,6 @@
 # cppurs
 
-<img width="400" alt="cppurs" src="https://github.com/user-attachments/assets/7afae775-d1d0-4a28-88a6-153f2be8a858" />
+<img height="120" alt="cppurs" src="https://github.com/user-attachments/assets/7afae775-d1d0-4a28-88a6-153f2be8a858" />
 <br />
 <br />
 
