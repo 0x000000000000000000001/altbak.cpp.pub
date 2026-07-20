@@ -1,5 +1,9 @@
 # altbak.cpp.pub
 
+<img width="400" alt="cppurs" src="https://github.com/user-attachments/assets/7afae775-d1d0-4a28-88a6-153f2be8a858" />
+<br />
+<br />
+
 WIP: Currently working on a PureScript compiler targeting C++.
 
 Based on the universal backend source [0x000000000000000000001/altbak.pub](https://github.com/0x000000000000000000001/altbak.pub).
