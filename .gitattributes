@@ -1,2 +1,4 @@
 * linguist-vendored=true
 run/bak/cpp/** !linguist-vendored linguist-generated=false linguist-language=C++
+*.sh linguist-detectable=false
+*.sh linguist-vendored
